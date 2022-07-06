@@ -79,7 +79,7 @@ const Rentals = (() => {
     }
 
     let options = {
-      contractAddress: "0x07D9EA521bf748deFFe071E4b7b25411b0884f91",
+      contractAddress: "xxxx",
       functionName: "addDatesBooked",
       abi: [
         {
